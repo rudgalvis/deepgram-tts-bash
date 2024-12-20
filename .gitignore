@@ -1,0 +1,8 @@
+# Ignore IDEs files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+config
+_output.wav

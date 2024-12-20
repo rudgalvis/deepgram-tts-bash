@@ -1,0 +1,7 @@
+# Define the API key variable from
+# https://console.deepgram.com/project/e8b5277d-65c6-492f-9da3-5c07da61ea7c/keys
+API_KEY="fe75f5asd5af54b671e7838b4ab7336cc9bac0ec"
+
+# Define voice model from `Values` table column in
+# https://developers.deepgram.com/docs/tts-models
+VOICE="aura-arcas-en"
